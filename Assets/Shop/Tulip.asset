@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 301a64bc55be3824f8b5fd14a0d6e1a8, type: 3}
+  m_Name: Tulip
+  m_EditorClassIdentifier: 
+  itemName: Tulip
+  itemIcon: {fileID: 239664503416430736, guid: 9b037e96999d4174c9f72fe57fe47bed, type: 3}
+  itemPrice: 640
+  bgColor: {r: 0, g: 0, b: 0, a: 0}
